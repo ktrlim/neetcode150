@@ -2,6 +2,9 @@ package ArraysHashing;
 
 import java.util.*;
 
+// Given an integer array nums, return true if any value appears
+// more than once in the array, otherwise return false.
+
 public class DuplicateInteger {
     public static void main(String args[]) {
         int[] nums = {1, 2, 3, 3};
